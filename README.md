@@ -55,15 +55,6 @@ npm run test
 
 ## Author
 
-👤 **Natnael Engeda**
+👤 **Nuredin Ibrahim**
 
-* Website: www.tomoca.com
-* Twitter: [@nattyengeda](https://twitter.com/nattyengeda)
-* Github: [@nattyengeda](https://github.com/nattyengeda)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+* Github: [@nuredin10](https://github.com/nattyengeda)
